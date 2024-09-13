@@ -1,4 +1,6 @@
-# Pulumi CDK TEST: aws-serverless-unique-event-aggregator
+# Pulumi CDK Testing
+
+A collection of CDK stacks to experiment with [pulumi/pulumi-cdk](https://github.com/pulumi/pulumi-cdk) functionality.
 
 ```
 npm i

@@ -1,2 +1,2 @@
-name: aws-serverless-unique-event-aggregator
+name: pulumi-cdk-testing
 runtime: nodejs
